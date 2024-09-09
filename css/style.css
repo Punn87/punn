@@ -1,0 +1,52 @@
+body{
+	font-family: Arial, Helvetica, sans-serif; 	
+	background-color: #FBF3D5;
+	text-align: center;
+	font-size: 25px;
+	color: #9CAFAA;
+}
+.Menu{
+	background-color: #9CAFAA;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+a:link{
+	color: black;
+	font-size: 30px;
+	text-decoration-line: none;
+	padding-left: 30px;
+	text-decoration: bold;
+	font-weight: bold;
+}
+a:hover{
+	color: azure;
+}
+img{
+	width: 300px;
+	margin-top: 20px;
+}
+p{
+	font-size: 40px;
+	text-align: center;
+	color: black;
+}
+.bon{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#personal-info{
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: 200px;
+	margin-top: 50px;
+}
+
+#personal-info, td, th{
+    border: 1px solid;
+	text-align: center;
+	padding-left: 10px;
+	color: black;
+}
+h1, h2{
+	color: black;
+}
