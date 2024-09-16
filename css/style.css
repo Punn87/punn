@@ -11,7 +11,7 @@ body{
 	margin-right: 25%;
 }
 a:link{
-	color: black;
+	color: black !important;
 	font-size: 30px;
 	text-decoration-line: none;
 	padding-left: 30px;
