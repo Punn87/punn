@@ -50,3 +50,8 @@ p{
 h1, h2{
 	color: black;
 }
+.cer{
+	height: 50%;
+	width: 50%;
+	padding-top: 50px;
+}
